@@ -1,4 +1,4 @@
-## mgast
+## Migration Assistant
 
 ### Install
 
